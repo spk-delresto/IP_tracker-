@@ -15,6 +15,5 @@
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/spk-delresto/ip-address-tracker.git
-cd ip-address-tracker
-pip install -r requirements.txt
+git clone https://github.com/spk-delresto/IP_tracker-.git
+cd ip_tracker
