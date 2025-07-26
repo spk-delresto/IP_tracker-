@@ -225,3 +225,13 @@ if __name__ == "__main__":
         subprocess.check_call([sys.executable, "-m", "pip", "install", "requests", "prettytable", "ipwhois"])
 
     main()
+
+# Example Output
+📡 IP Address Tracker
+----------------------
+🔹 Enter an IP address: 8.8.8.8
+🌐 Public IP Information:
+...
+
+🏢 Business Network Context:
+...
